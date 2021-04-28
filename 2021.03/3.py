@@ -1,4 +1,4 @@
-ef solution(enter, leave):
+def solution(enter, leave):
 	answer = []
 	arr = []
 
